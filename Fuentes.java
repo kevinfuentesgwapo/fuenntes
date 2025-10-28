@@ -95,7 +95,8 @@ public class Fuentes {
         if (!loggedIn) {
             System.out.println("Invalid username or password!");
         }
-break;
+        break;
+        
         case "3":
         //exit the program 
         System.out.println("Goodbye!");
